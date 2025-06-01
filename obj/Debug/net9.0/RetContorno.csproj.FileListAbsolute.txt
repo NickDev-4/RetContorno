@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.AssemblyInfo.cs
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.sourcelink.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\bin\Debug\net9.0\RetContorno.exe
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\bin\Debug\net9.0\RetContorno.deps.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\bin\Debug\net9.0\RetContorno.runtimeconfig.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\bin\Debug\net9.0\RetContorno.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\bin\Debug\net9.0\RetContorno.pdb
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\refint\RetContorno.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.pdb
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\RetContorno.genruntimeconfig.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\RetContorno\obj\Debug\net9.0\ref\RetContorno.dll
